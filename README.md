@@ -9,6 +9,7 @@ To use the password generator, simply open the index.html file in your web brows
 - **Lowercase**: Allows you to include lowercase letters in the generated password. By default, this option is enabled.
 - **Numbers**: Allows you to include numbers in the generated password. By default, this option is enabled.
 - **Symbols**: Allows you to include symbols in the generated password. By default, this option is enabled.
+
 Once you have customized the options to your liking, click the "Generate Password" button to generate a random password. The generated password will be displayed on the screen.
 
 ## Security
