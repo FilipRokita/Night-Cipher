@@ -23,7 +23,3 @@ Night Cipher Password Generator generates passwords using a combination of rando
 
 ## Disclaimer
 This program is provided "as is" without any warranties or guarantees. The author is not responsible for any damage or losses incurred while using this program.
-
-## License
-
-This project is licensed under the MIT License. which means you are free to use, modify, and distribute the code as you see fit. However, we do not provide any warranties or guarantees regarding the performance or security of this software. Use at your own risk. See the [LICENSE](LICENSE) file for details.
